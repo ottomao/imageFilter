@@ -6,7 +6,7 @@
 ## Intro
 
 * ImageFilter是一个移动端端图像处理组件
-* 你可以[在Sample页亲自体验到各种效果](/examples/)
+* 你可以[在Demo页亲自体验到各种效果](/examples/)
 * Author : ottomao@gmail.com
 * ![ScreenShot](https://t.alipayobjects.com/images/rmsweb/T1wrVgXcXoXXXXXXXX.jpg_600x600q90.jpg)
 
@@ -97,6 +97,6 @@ myImgFilter.destroy();      //销毁组件
 * 为保证体验流畅，建议一次处理一张图片
 * 兼容性要求: 必须提供支持canvas的环境
 
-## 移步Sample页
-* 你可以[在Sample页亲自体验到各种效果](/examples/)
+## 移步Demo页
+* 你可以[在Demo页亲自体验到各种效果](/examples/)
 
